@@ -1,0 +1,32 @@
+# System Specification Document
+
+## 1. Introduction
+
+## Project Title  
+TaskFlow: Project Management System 
+
+## Domain  
+Project Management and Collaboration  
+
+## Problem Statement  
+Many teams struggle with organizing tasks, tracking progress, and ensuring project deadlines are met. This system provides an efficient way to manage projects, assign tasks, and monitor performance.  
+
+## Individual Scope  
+The feasibility of the project is justified by the increasing demand for digital project management tools in businesses, schools, and organizations. The system will include:  
+- Task Assignments  
+- Progress Tracking  
+- Deadline Notifications  
+- Team Collaboration Features 
+
+## 2. Functional Requirements
+- Project Creation & Management  
+- Task Assignment & Tracking 
+- Collaboration & Communication  
+- Notifications & Reminders  
+- Project Reports & Analytics  
+
+## 3. Non-Functional Requirements
+- Scalability – Should handle multiple projects and users.  
+- Security – Role-based access control and authentication.  
+- Availability – Hosted on cloud servers for high uptime.  
+- Usability – Simple and intuitive UI.  
