@@ -22,7 +22,8 @@ The system allows users to
 
 # System Architecture  
 For a detailed system architecture, see:  
-👉 [ARCHITECTURE.md](https://github.com/Nonkululeko-Ma/Project_Management/blob/main/ARCHITECTURE.md)  
+👉 [ARCHITECTURE.md](https://github.com/Nonkululeko-Ma/Project_Management/blob/main/ARCHITECTURE.md)
+
 
 
 #  System Specification  
@@ -37,5 +38,4 @@ For full project specifications, see:
 - Database MongoDB  
 - Hosting AWS / Firebase  
 - Authentication JWT  
-
-# Folder Structure  
+  
