@@ -1,6 +1,7 @@
 # System Specification Document
 
 ## 1. Introduction
+This project is about creating a system to help teams manage their tasks. The system has different roles: Admin, Project Manager, and Team Member. The Admin can manage users and settings, the Project Manager can create and assign tasks, and Team Members can update their task progress. The system helps everyone stay organized by allowing the Project Manager to generate reports. The goal is to make teamwork easier and help track project progress.
 
 ## Project Title  
 TaskFlow: Project Management System 
