@@ -31,6 +31,8 @@ The feasibility of the project is justified by the increasing demand for digital
 - Security – Role-based access control and authentication.  
 - Availability – Hosted on cloud servers for high uptime.  
 - Usability – Simple and intuitive UI.  
+![ERD_Projectmanagement](https://github.com/user-attachments/assets/d50b5f5b-8c23-421c-a908-2687ea5b4e67)
+![Project_Management taskflow-diagram png](https://github.com/user-attachments/assets/63a17e3b-e05a-4e08-b149-178197ff9e52)
 
-![task-flow-diagram png](https://github.com/user-attachments/assets/1d561a68-fa6e-40a3-a8e8-b633e4cfef01)
 https://www.mermaidchart.com/app/projects/a35eb643-a2e6-4dfd-9908-113447ce51e5/diagrams/550dd1bc-8460-480b-94e4-6b4b18e8ea70/version/v0.1/edit
+https://www.mermaidchart.com/app/projects/a35eb643-a2e6-4dfd-9908-113447ce51e5/diagrams/6fad2a50-c757-46a8-8ea5-6369a345a5e5/version/v0.1/edit
