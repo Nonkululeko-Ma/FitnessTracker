@@ -1,9 +1,41 @@
-# Project_Management
-# Introduction
-Project Title: Project Management System
-Domain: Project Management and Collaboration
-Problem Statement: Many teams struggle with organizing tasks, tracking progress, and ensuring project deadlines are met. This system provides an efficient way to manage projects, assign tasks, and monitor performance.
-Individual Scope: The feasibility of the project is justified by the increasing demand for digital project management tools in businesses, schools, and organizations. The system will include task assignments, progress tracking, deadline notifications, and team collaboration features.
-# System Specification  
-For a detailed system specification, see:  
-👉 https://github.com/Nonkululeko-Ma/Project_Management/blob/main/SPECIFICATION.md
+# TaskFlow: Project Management System  
+
+# Project Description  
+TaskFlow is a web-based Project Management System that helps teams and organizations plan, track, and execute projects efficiently.  
+The system allows users to  
+✔ Create projects  
+✔ Assign tasks  
+✔ Set deadlines  
+✔ Monitor progress  
+✔ Collaborate with team members  
+
+
+
+#  Features  
+- Project Creation & Management  
+- Task Assignment & Tracking 
+- Deadline Notifications  
+- Project Reports & Analytics  
+- Team Collaboration & Messaging  
+
+
+
+# System Architecture  
+For a detailed system architecture, see:  
+👉 [ARCHITECTURE.md](https://github.com/Nonkululeko-Ma/Project_Management/blob/main/ARCHITECTURE.md)  
+
+
+#  System Specification  
+For full project specifications, see:  
+👉 [SPECIFICATION.md](https://github.com/Nonkululeko-Ma/Project_Management/blob/main/SPECIFICATION.md)  
+
+---
+
+# Technologies  will be Used  
+- Frontend React.js  
+- Backend Node.js (Express.js)  
+- Database MongoDB  
+- Hosting AWS / Firebase  
+- Authentication JWT  
+
+# Folder Structure  
