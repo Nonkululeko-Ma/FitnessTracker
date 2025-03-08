@@ -1,7 +1,9 @@
 # TaskFlow: Project Management System  
 
-# Project Description  
-TaskFlow is a web-based Project Management System that helps teams and organizations plan, track, and execute projects efficiently.  
+# Project Description   
+
+TaskFlow is a web-based Project Management System designed to help teams and organizations plan, track, and execute projects efficiently.  This system is built based on thorough stakeholder analysis and a well-defined set of functional and non-functional requirements.
+
 The system allows users to  
 ✔ Create projects  
 ✔ Assign tasks  
