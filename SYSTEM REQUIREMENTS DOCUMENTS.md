@@ -41,7 +41,7 @@
 
 # Deployability
 
-  - The system shall be deployable on AWS and/or Firebase.
+  - The system shall be deployable on Windows, AWS and/or Firebase.
   - The deployment process shall be automated.
 
 # Maintainability
