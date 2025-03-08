@@ -2,14 +2,14 @@
 
 # 1. Functional Requirements
 
-1.  User Authentication: The system shall allow users to register, log in, and log out securely.
+1.  User Authentication: The system shall allow users to securely register, log in, and log out.
     - Acceptance Criteria: Users must be able to log in with valid credentials within 3 seconds.  Failed login attempts should be logged.
       
 2.  Project Creation: The system shall allow project managers to create new projects with a name, description, start date, and end date.
-   - Acceptance Criteria: Project creation should be completed within 5 seconds.  The system must validate input data (e.g., end date cannot be before start date).
+   - Acceptance Criteria: Project creation should be completed within 5 seconds.  The system must validate input data (e.g., the end date cannot be before the start date).
      
 3.  Task Assignment: The system shall allow project managers to assign tasks to team members with a description, deadline, and priority.
-   - Acceptance Criteria:  Task assignment should be completed within 3 seconds. Notifications will be sent to the user who's assigned the task and the Project Manager.
+   - Acceptance Criteria:  Task assignment should be completed within 3 seconds. Notifications will be sent to the user assigned the task and to the Project Manager.
      
 4.     Task Progress Tracking: The system shall allow team members to update the progress of their assigned tasks (e.g., "To Do," "In Progress," "Completed").
      - Acceptance Criteria: The team member can update the progress. Project Manager should be able to view the changes.
@@ -18,7 +18,7 @@
     - Acceptance Criteria: Email Notifications.
       
 6.  Reporting: The system shall generate reports on project progress, task completion rates, and resource allocation.
-    - Acceptance Criteria: Reports that are accurate.
+    - Acceptance Criteria: Accurate report.
       
 7.  User Roles and Permissions: The system shall implement role-based access control to restrict access to sensitive features and data.
     - Acceptance Criteria: Only Admins can manage user roles and permissions.
