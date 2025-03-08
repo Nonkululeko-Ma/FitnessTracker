@@ -30,4 +30,18 @@ The feasibility of the project is justified by the increasing demand for digital
 - Scalability – Should handle multiple projects and users.  
 - Security – Role-based access control and authentication.  
 - Availability – Hosted on cloud servers for high uptime.  
-- Usability – Simple and intuitive UI.  
+- Usability – Simple and intuitive UI.
+
+
+## Stakeholder Analysis
+
+For a detailed analysis of the system's stakeholders, their concerns, and success metrics, see:
+
+ STAKEHOLDERS.md](STAKEHOLDERS.md
+
+# System Requirements
+
+For a comprehensive list of functional and non-functional requirements, refer to the System Requirements Document:
+
+ System Requirements Documents.md (SRD.md)
+
